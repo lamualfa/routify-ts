@@ -2,9 +2,14 @@
   "name": "setup-routify-ts",
   "version": "1.0.0-pre.2",
   "description": "Use Typescript in Routify Starter Template.",
-  "bin": "index.js",
+  "bin": "cli.js",
   "repository": "https://github.com/lamualfa/setup-routify-ts",
   "author": "Laode Muhammad Al Fatih",
   "license": "WTFPL",
+  "keywords": [
+    "svelte",
+    "routify",
+    "typescript"
+  ],
   "private": false
 }
