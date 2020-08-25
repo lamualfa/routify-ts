@@ -46,7 +46,7 @@ npx setup-routify-ts convert [project-directory]
 npx setup-routify-ts convert /home/me/my-routify-app
 ```
 
-## Changes that will be made
+## What we do
 
 - Create new `tsconfig.json` file in root folder.
 - Add `svelte-check` script & some `devDependencies` to `package.json`.
@@ -62,3 +62,7 @@ npx setup-routify-ts convert /home/me/my-routify-app
 > Routify is a work in progress. Since v1.5 we have a stable release. But this is a relatively young project. You can expect it to evolve.
 
 Since [Routify](https://github.com/roxiness/routify) is in the progress, a lot of changes are likely to occur. If you find an error or something that is not updated, please inform us in the [Issues](https://github.com/lamualfa/setup-routify-ts/issues/new) section or fix it yourself by creating a new Pull Request.
+
+<hr/>
+
+**Tested with `@sveltech/routify@v1.9.9`**
