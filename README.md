@@ -3,13 +3,17 @@
 
 # setup-routify-ts (Unofficial)
 
-Use Typescript in Routify Starter Template.
+Use Typescript in [Routify Starter Template](https://github.com/roxiness/routify-starter).
 
 ## Usage
 
-`setup-routify-ts` supports creating projects from scratch or converting existing projects. please select according to your needs.
+`setup-routify-ts` supports creating projects from scratch or converting existing projects. Select according to your needs.
 
-### Method 1: Create new Routify Starter Template
+<hr>
+
+### Create new Routify Starter Template from Scratch
+
+With this method, `setup-routify-ts` will create a Routify Starter Template and then add additional configurations for Typescript purposes.
 
 #### Command
 
@@ -28,7 +32,13 @@ npx setup-routify-ts init <project-name> [routify-init-args]
 npx setup-routify-ts init my-routify-app
 ```
 
-### Method 2: Convert existing projects to Typescript
+<hr>
+
+### *or* Convert existing projects to Typescript
+
+`setup-routify-ts` will add additional configurations for Typescript needs to an existing project.
+
+> Try to do backups to prevent conflicts in case of conflicts with the configuration that you have made.
 
 #### Command
 
@@ -45,6 +55,8 @@ npx setup-routify-ts convert [project-directory]
 ```bash
 npx setup-routify-ts convert /home/me/my-routify-app
 ```
+
+<hr>
 
 ## What we do
 
