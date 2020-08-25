@@ -2,7 +2,6 @@
   "name": "setup-routify-ts",
   "version": "1.0.0-pre.1",
   "description": "Use Typescript in Routify Starter Template.",
-  "main": "index.js",
   "bin": "index.js",
   "repository": "https://github.com/lamualfa/setup-routify-ts",
   "author": "Laode Muhammad Al Fatih",
