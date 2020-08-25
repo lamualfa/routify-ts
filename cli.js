@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { resolve, join } = require('path')
 const { unlinkSync, existsSync, mkdirSync, readdirSync } = require('fs')
 
