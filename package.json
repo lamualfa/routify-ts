@@ -1,0 +1,10 @@
+{
+  "name": "setup-routify-ts",
+  "version": "1.0.0-pre.0",
+  "description": "Change your Routify starter template to Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/lamualfa/setup-routify-ts",
+  "author": "Laode Muhammad Al Fatih",
+  "license": "WTFPL",
+  "private": false
+}
