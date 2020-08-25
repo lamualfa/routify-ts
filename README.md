@@ -1,4 +1,4 @@
-[![NPM Version](https://badgen.net/npm/v/setup-routify-ts?color=red&icon=npm&label=version)](npmjs.com/package/setup-routify-ts?cache=300)
+[![NPM Version](https://badgen.net/npm/v/setup-routify-ts?color=red&icon=npm&label=version)](https://npmjs.com/package/setup-routify-ts?cache=300)
 [![Github License](https://badgen.net/github/license/lamualfa/setup-routify-ts?color=purple&label=license)](https://github.com/lamualfa/setup-routify-ts/blob/master/README.md?cache=300)
 
 # setup-routify-ts (Unofficial)
