@@ -75,7 +75,6 @@ module.exports = function setup(targetDir) {
   const configEditor = new RegExp(/css:.|\n*((?:\$\{[^}]*)\}|\)),\w*$/gim)
   while ((match = configEditor.exec(rollupConfig)) != null) {
     if (foundCSS) {
-      console.log(match)
       const endOfCSSIndex = match.index + 1
       rollupConfig =
         rollupConfig.slice(0, endOfCSSIndex) +
