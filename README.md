@@ -1,7 +1,7 @@
 [![NPM Version](https://badgen.net/npm/v/setup-routify-ts?color=red&icon=npm&label=version&cache=300)](https://npmjs.com/package/setup-routify-ts)
 [![Github License](https://badgen.net/github/license/lamualfa/setup-routify-ts?color=purple&label=license&cache=300)](https://github.com/lamualfa/setup-routify-ts/blob/master/LICENSE)
 
-# setup-routify-ts (Unofficial)
+# setup-routify-ts
 
 Use Typescript in [Routify Starter Template](https://github.com/roxiness/routify-starter).
 
