@@ -5,6 +5,8 @@
 
 Use Typescript in [Routify Starter Template](https://github.com/roxiness/routify-starter).
 
+> Designed for [Routify Starter Template](https://github.com/roxiness/routify-starter). Not for [Svelte Template](https://github.com/sveltejs/template).
+
 ## Usage
 
 We have 2 methods to add Typescript support to Routify Starter Template. You can choose whichever one suits your needs.
