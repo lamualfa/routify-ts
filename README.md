@@ -84,4 +84,4 @@ Since [Routify](https://github.com/roxiness/routify) is in the progress, a lot o
 
 <hr/>
 
-**Tested with `@sveltech/routify@v1.9.9`**
+**Tested with `@sveltech/routify@v2.5.1-next-major`**
