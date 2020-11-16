@@ -1,7 +1,7 @@
-[![NPM Version](https://badgen.net/npm/v/setup-routify-ts?color=red&icon=npm&label=version&cache=300)](https://npmjs.com/package/setup-routify-ts)
-[![Github License](https://badgen.net/github/license/lamualfa/setup-routify-ts?color=purple&label=license&cache=300)](https://github.com/lamualfa/setup-routify-ts/blob/master/LICENSE)
+[![NPM Version](https://badgen.net/npm/v/routify-ts?color=red&icon=npm&label=version&cache=300)](https://npmjs.com/package/routify-ts)
+[![Github License](https://badgen.net/github/license/lamualfa/routify-ts?color=purple&label=license&cache=300)](https://github.com/lamualfa/routify-ts/blob/master/LICENSE)
 
-# setup-routify-ts
+# routify-ts
 
 Use Typescript in [Routify Starter Template](https://github.com/roxiness/routify-starter).
 
@@ -20,12 +20,12 @@ We have 2 methods to add Typescript support to Routify Starter Template. You can
 
 ### Create new Routify Starter Template from Scratch
 
-With this method, `setup-routify-ts` will create a Routify Starter Template and then add additional configurations for Typescript purposes.
+With this method, `routify-ts` will create a Routify Starter Template and then add additional configurations for Typescript purposes.
 
 #### Command
 
 ```bash
-npx setup-routify-ts init <project-name> [routify-init-args]
+npx routify-ts init <project-name> [routify-init-args]
 ```
 
 #### Arguments
@@ -36,21 +36,21 @@ npx setup-routify-ts init <project-name> [routify-init-args]
 #### Example
 
 ```bash
-npx setup-routify-ts init my-routify-app
+npx routify-ts init my-routify-app
 ```
 
 <hr>
 
 ### Convert existing projects to Typescript
 
-`setup-routify-ts` will add additional configurations for Typescript needs to an existing project.
+`routify-ts` will add additional configurations for Typescript needs to an existing project.
 
 > Try to do backups to prevent conflicts in case of conflicts with the configuration that you have made.
 
 #### Command
 
 ```bash
-npx setup-routify-ts convert [project-directory]
+npx routify-ts convert [project-directory]
 ```
 
 #### Arguments
@@ -60,7 +60,7 @@ npx setup-routify-ts convert [project-directory]
 #### Example
 
 ```bash
-npx setup-routify-ts convert /home/me/my-routify-app
+npx routify-ts convert /home/me/my-routify-app
 ```
 
 <hr>
@@ -80,7 +80,7 @@ npx setup-routify-ts convert /home/me/my-routify-app
 
 > Routify is a work in progress. Since v1.5 we have a stable release. But this is a relatively young project. You can expect it to evolve.
 
-Since [Routify](https://github.com/roxiness/routify) is in the progress, a lot of changes are likely to occur. If you find an error or something that is not updated, please inform us in the [Issues](https://github.com/lamualfa/setup-routify-ts/issues/new) section or fix it yourself by creating a new Pull Request.
+Since [Routify](https://github.com/roxiness/routify) is in the progress, a lot of changes are likely to occur. If you find an error or something that is not updated, please inform us in the [Issues](https://github.com/lamualfa/routify-ts/issues/new) section or fix it yourself by creating a new Pull Request.
 
 <hr/>
 
