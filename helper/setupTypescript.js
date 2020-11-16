@@ -51,7 +51,7 @@ module.exports = function setup(targetDir) {
   writeFileSync(appSveltePath, appFile)
 
   // Edit rollup config
-  const rollupConfigPath = join(targetDir, 'scripts/base.config.js')
+  const rollupConfigPath = join(targetDir, 'rollup.config.js')
   let rollupConfig = readFileSync(rollupConfigPath, 'utf8')
 
   // Edit imports
