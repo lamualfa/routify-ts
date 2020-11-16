@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Use Typescript in Routify Starter Template.",
   "bin": "cli.js",
-  "repository": "https://github.com/lamualfa/setup-routify-ts",
+  "repository": "https://github.com/lamualfa/routify-ts",
   "author": "Laode Muhammad Al Fatih",
   "license": "WTFPL",
   "keywords": [
