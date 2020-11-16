@@ -6,7 +6,6 @@ const {
   existsSync,
 } = require('fs');
 const { join } = require('path');
-const { argv } = require('process');
 
 const log = require('./log');
 const execSyncLocally = require('./execSyncLocally');
