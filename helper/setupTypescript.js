@@ -88,7 +88,7 @@ module.exports = function setup(targetDir) {
   // Add TypeScript
   rollupConfig = rollupConfig.replace(
     'commonjs(),',
-    'commonjs(),\n\t\t\ttypescript({ sourceMap: !production }),'
+    'commonjs(),\n\t\ttypescript({\n\t\t\tsourceMap: !production,\n\t\t\tinlineSources: !production\n\t\t}),'
   );
   writeFileSync(rollupConfigPath, rollupConfig);
 
