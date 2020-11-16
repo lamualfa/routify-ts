@@ -1,5 +1,5 @@
 [![NPM Version](https://badgen.net/npm/v/routify-ts?color=red&icon=npm&label=version&cache=300)](https://npmjs.com/package/routify-ts)
-[![NPM Version](https://badgen.net/npm/dt/routify-ts?color=blue&label=downloads&cache=300)](https://npmjs.com/package/routify-ts)
+[![NPM Downloads](https://badgen.net/npm/dt/routify-ts?color=blue&label=downloads&cache=300)](https://npmjs.com/package/routify-ts)
 [![Github License](https://badgen.net/github/license/lamualfa/routify-ts?color=purple&label=license&cache=300)](https://github.com/lamualfa/routify-ts/blob/master/LICENSE)
 
 # routify-ts
