@@ -119,7 +119,7 @@ module.exports = function setup(targetDir) {
       execSyncLocally(targetDir, 'npm install');
     else
       console.log(
-        '\nYou need to re-run your dependency manager to get started. E.g.: `npm install` or `yarn install`.'
+        '\nYou have to run dependencies installation command using your dependency manager to get started. E.g.: `npm install` or `yarn install`.'
       );
   }
 };
