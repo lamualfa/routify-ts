@@ -1,4 +1,5 @@
 [![NPM Version](https://badgen.net/npm/v/routify-ts?color=red&icon=npm&label=version&cache=300)](https://npmjs.com/package/routify-ts)
+[![NPM Version](https://badgen.net/npm/dt/routify-ts?color=blue&label=downloads&cache=300)](https://npmjs.com/package/routify-ts)
 [![Github License](https://badgen.net/github/license/lamualfa/routify-ts?color=purple&label=license&cache=300)](https://github.com/lamualfa/routify-ts/blob/master/LICENSE)
 
 # routify-ts
@@ -7,8 +8,8 @@ Use Typescript in [Routify Starter Template](https://github.com/roxiness/routify
 
 ## Important
 
-- This `routify-ts` script designed for [Routify Starter Template](https://github.com/roxiness/routify-starter). Not for [Svelte Template](https://github.com/sveltejs/template).
 - The script name has been changed from `setup-routify-ts` to `routify-ts`.
+- This `routify-ts` script designed for [Routify Starter Template](https://github.com/roxiness/routify-starter). Not for [Svelte Template](https://github.com/sveltejs/template).
 - This documentation is shown for `@sveltech/routify` version `2` and above. For versions below `2`, please visit [v1.0.0](https://github.com/lamualfa/setup-routify-ts/tree/v1.0.0).
 - Please backup your project folder before use `routify-ts convert` command. You don't need to do that for any other command.
 
