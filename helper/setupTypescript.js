@@ -95,7 +95,7 @@ module.exports = function setup(targetDir) {
   const tsconfig = `{
   "extends": "@tsconfig/svelte/tsconfig.json",
   "include": ["src/**/*"],
-  "exclude": ["node_modules/*", "__sapper__/*", "public/*"],
+  "exclude": ["node_modules/*", "api/*", "assets/*"],
 }`;
   const tsconfigPath = join(targetDir, 'tsconfig.json');
   writeFileSync(tsconfigPath, tsconfig);
