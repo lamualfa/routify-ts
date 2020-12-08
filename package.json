@@ -11,5 +11,9 @@
     "routify",
     "typescript"
   ],
-  "private": false
+  "private": false,
+  "scripts": {
+    "test:init": "mkdir test && node cli.js init test",
+    "test:convert": "mkdir test && cd test && npx @sveltech/routify init"
+  }
 }
