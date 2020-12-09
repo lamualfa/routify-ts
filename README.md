@@ -19,8 +19,8 @@ We have 2 methods to add Typescript support to Routify Starter Template. You can
 
 **Support methods:**
 
-- [Create new Routify Starter Template from Scratch](#Create-new-Routify-Starter-Template-from-Scratch)
-- [Convert existing projects to Typescript](#Convert-existing-projects-to-Typescript)
+- [Create new Routify Starter Template from Scratch](https://github.com/lamualfa/routify-ts#Create-new-Routify-Starter-Template-from-Scratch)
+- [Convert existing projects to Typescript](https://github.com/lamualfa/routify-ts#Convert-existing-projects-to-Typescript)
 
 <hr>
 
