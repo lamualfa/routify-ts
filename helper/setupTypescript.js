@@ -19,7 +19,6 @@ module.exports = function setup(targetDir) {
   );
   packageJSON.devDependencies = Object.assign(packageJSON.devDependencies, {
     'svelte-check': '^1.0.0',
-    'svelte-preprocess': '^4.0.0',
     '@rollup/plugin-typescript': '^6.0.0',
     typescript: '^3.9.3',
     tslib: '^2.0.0',
@@ -56,7 +55,7 @@ module.exports = function setup(targetDir) {
   // Edit imports
   rollupConfig = rollupConfig.replace(
     `'rollup-plugin-terser';`,
-    `'rollup-plugin-terser';\nimport sveltePreprocess from 'svelte-preprocess';\nimport typescript from '@rollup/plugin-typescript';`
+    `'rollup-plugin-terser';\nimport typescript from '@rollup/plugin-typescript';`
   );
 
   // Replace name of entry point
@@ -77,7 +76,6 @@ module.exports = function setup(targetDir) {
       const endOfCSSIndex = match.index + 1;
       rollupConfig =
         rollupConfig.slice(0, endOfCSSIndex) +
-        ',\n\t\tpreprocess: sveltePreprocess()' +
         rollupConfig.slice(endOfCSSIndex);
       break;
     }
