@@ -1,6 +1,6 @@
 {
   "name": "routify-ts",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Use Typescript in Routify Starter Template.",
   "bin": "cli.js",
   "repository": "https://github.com/lamualfa/routify-ts",
