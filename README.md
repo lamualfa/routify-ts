@@ -1,6 +1,7 @@
 [![NPM Version](https://badgen.net/npm/v/routify-ts?color=red&icon=npm&label=version)](https://npmjs.com/package/routify-ts)
 [![NPM Downloads](https://badgen.net/npm/dt/routify-ts?color=blue&label=downloads)](https://npmjs.com/package/routify-ts)
 [![Github License](https://badgen.net/github/license/lamualfa/routify-ts?color=purple&label=license)](https://github.com/lamualfa/routify-ts/blob/master/LICENSE)
+[![Dependencies](https://img.shields.io/badge/dependencies-agnostic-pink)](https://github.com/lamualfa/routify-ts/blob/master/package.json)
 
 # routify-ts
 
@@ -82,4 +83,12 @@ npx routify-ts convert /home/me/my-routify-app
 
 <hr/>
 
-**Tested with `@sveltech/routify@v2.5.1-next-major`**
+**Tested with `@roxi/routify@v2.8.5`**
+
+<hr/>
+
+## Related
+
+- [routify-tailwind](https://github.com/lamualfa/routify-tailwind) - Use Tailwind CSS in Routify.
+- [routify-twind](https://github.com/lamualfa/routify-twind) - Use Twind (Tailwind CSS in JS version) in Routify.
+- [routify-carbon](https://github.com/lamualfa/routify-carbon) - Use IBM Carbon Framework in Routify.
