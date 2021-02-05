@@ -3,9 +3,9 @@
 const { resolve, join } = require('path');
 const { unlinkSync, existsSync, mkdirSync, readdirSync } = require('fs');
 
-const log = require('./helper/log');
-const execSyncLocally = require('./helper/execSyncLocally');
-const setupTypescript = require('./helper/setupTypescript');
+const log = require('./helpers/log');
+const execSyncLocally = require('./helpers/execSyncLocally');
+const setupTypescript = require('./helpers/setupTypescript');
 
 const Commands = {
   help: 'help',
